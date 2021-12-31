@@ -14,6 +14,10 @@ const pusher = () => {
     changer([...arr])
 }
 
+const erease = () => {
+    changer([])
+}
+
 const math = (type) => {
     if(type === '0') {
         change(5)
@@ -75,17 +79,26 @@ const math = (type) => {
       -</Buttonv1>  
 
       <div style={{display:'inline-block', fontSize: '6vw', marginLeft: '5vw'}}>{count}</div>
-      <div>
+      <div style={{display: 'inline-block', width: '30%'}}>
         
       <Buttonv1
+      font = '6vw'
       onck = {() => pusher()}
       color = 'aqua'
       backgroundColor = 'orange'
-      width = '24%'>
+      width = '80%'>
       save</Buttonv1>  
+
+      <Buttonv1
+      font = '6vw'
+      onck = {() => erease()}
+      color = 'aqua'
+      backgroundColor = 'orange'
+      width = '80%'>
+      remove</Buttonv1>  
          
       </div>
-      <div>{arr.map((item) =>(<div>{item}</div>))}</div>
+      <div style={{fontSize:'5vw',display: 'inline-block'}}>{arr.map((item) =>(<div style={{display: 'inline-block', marginLeft: '3vw'}}>{item}</div>))}</div>
         </div>
     )
 }
