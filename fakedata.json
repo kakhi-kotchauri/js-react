@@ -1,0 +1,340 @@
+{
+    "Products": [
+        {
+            "id": 1,
+            "Category": "Drugs",
+            "subCategory": "Hair Vitamins",
+            "title": "Title 1",
+            "img": "https://www.fda.gov/files/Drugs-Img-Drug-Information-Find-Information-Drugs-at-FDA-Mixed-Pills-Table-1600x900.png",
+            "price": 45,
+            "discountedPrice": "",
+            "manufacturer": "ლორეალი",
+            "amount": "20 ml",
+            "review": 4,
+            "annotation": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით დამუშავებული ტოსკანური ზეითუნის ზეთსა და უძვირფასესი ლიმნისა და ნუშის ყვავილების ექსტრაქტის უნიკალური კომბინაციით. მკვებავი ნივთიერებებისა და პანთენოლით გაჯერებული კომპლექსი ამაგრებს სუსტ თმის ძირებსა და ანიჭებს მოცულობას. შედეგი: ინტენსიური ფერის, ბრწყინვალე თმა.დერმატოლოგიურად ტესტირებულია. თვალში მოხვედრისას დაუყოვნებლივ ამოიბანეთ თბილი წყლით.",
+            "packaging": "20 unit",
+            "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
+            "pharmacies": [
+                1, 2, 3, 6, 8, 10, 33, 52, 55
+            ],
+            "new": true,
+            "popular": true,
+            "essential": true
+        },
+        {
+            "id": 2,
+            "Category": "Hygiene",
+            "subCategory": "Shampoo",
+            "title": "აღმდგენი ბალზამი-შამპუნი",
+            "img": "https://images.ctfassets.net/opqje7tqz50o/nAMNjzXpO1ZRypHww7U3U/a60ea8c2b4e21988bfcb105e8897c857/04987176038562_C1N1_APAC.jpeg",
+            "price": 10,
+            "discountedPrice": 30,
+            "manufacturer": "ივ როშე",
+            "amount": "20 ml",
+            "review": 5,
+            "annotation": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით დამუშავებული ტოსკანური ზეითუნის ზეთსა და უძვირფასესი ლიმნისა და ნუშის ყვავილების ექსტრაქტის უნიკალური კომბინაციით. მკვებავი ნივთიერებებისა და პანთენოლით გაჯერებული კომპლექსი ამაგრებს სუსტ თმის ძირებსა და ანიჭებს მოცულობას. შედეგი: ინტენსიური ფერის, ბრწყინვალე თმა.დერმატოლოგიურად ტესტირებულია. თვალში მოხვედრისას დაუყოვნებლივ ამოიბანეთ თბილი წყლით.",
+            "packaging": "20 unit",
+            "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
+            "pharmacies": [
+                1, 2, 3, 6, 8, 10, 33, 52, 55
+            ],
+            "new": true,
+            "popular": true,
+            "essential": true
+        },
+        {
+            "id": 3,
+            "Category": "Make Up",
+            "subCategory": "antiodontalgic",
+            "title": "Title 1",
+            "img": "https://www.fda.gov/files/Drugs-Img-Drug-Information-Find-Information-Drugs-at-FDA-Mixed-Pills-Table-1600x900.png",
+            "price": 25,
+            "discountedPrice": 30,
+            "manufacturer": "ნუქსი",
+            "amount": "20 ml",
+            "review": 5,
+            "annotation": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით დამუშავებული ტოსკანური ზეითუნის ზეთსა და უძვირფასესი ლიმნისა და ნუშის ყვავილების ექსტრაქტის უნიკალური კომბინაციით. მკვებავი ნივთიერებებისა და პანთენოლით გაჯერებული კომპლექსი ამაგრებს სუსტ თმის ძირებსა და ანიჭებს მოცულობას. შედეგი: ინტენსიური ფერის, ბრწყინვალე თმა.დერმატოლოგიურად ტესტირებულია. თვალში მოხვედრისას დაუყოვნებლივ ამოიბანეთ თბილი წყლით.",
+            "packaging": "20 unit",
+            "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
+            "pharmacies": [
+                1, 2, 3, 6, 8, 10, 33, 52, 55
+            ],
+            "new": true,
+            "popular": true,
+            "essential": true
+        },
+        {
+            "id": 4,
+            "Category": "Hair Care",
+            "subCategory": "antiodontalgic",
+            "title": "Title 1",
+            "img": "https://www.fda.gov/files/Drugs-Img-Drug-Information-Find-Information-Drugs-at-FDA-Mixed-Pills-Table-1600x900.png",
+            "price": 5,
+            "discountedPrice": 30,
+            "manufacturer": "ნივეა",
+            "amount": "20 ml",
+            "review": 5,
+            "annotation": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით დამუშავებული ტოსკანური ზეითუნის ზეთსა და უძვირფასესი ლიმნისა და ნუშის ყვავილების ექსტრაქტის უნიკალური კომბინაციით. მკვებავი ნივთიერებებისა და პანთენოლით გაჯერებული კომპლექსი ამაგრებს სუსტ თმის ძირებსა და ანიჭებს მოცულობას. შედეგი: ინტენსიური ფერის, ბრწყინვალე თმა.დერმატოლოგიურად ტესტირებულია. თვალში მოხვედრისას დაუყოვნებლივ ამოიბანეთ თბილი წყლით.",
+            "packaging": "20 unit",
+            "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
+            "pharmacies": [
+                1, 2, 3, 6, 8, 10, 33, 52, 55
+            ],
+            "new": true,
+            "popular": true,
+            "essential": true
+        },
+        {
+            "id": 5,
+            "Category": "Medical Devices",
+            "subCategory": "Nebulizer",
+            "title": "CITIZEN Compressor Nebulizer GC806",
+            "img": "https://i.ibb.co/n0HdT3D/gc806-transparent.png",
+            "price": 85,
+            "discountedPrice": 30,
+            "manufacturer": "სითიზენი",
+            "amount": "20 ml",
+            "review": 5,
+            "annotation": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით დამუშავებული ტოსკანური ზეითუნის ზეთსა და უძვირფასესი ლიმნისა და ნუშის ყვავილების ექსტრაქტის უნიკალური კომბინაციით. მკვებავი ნივთიერებებისა და პანთენოლით გაჯერებული კომპლექსი ამაგრებს სუსტ თმის ძირებსა და ანიჭებს მოცულობას. შედეგი: ინტენსიური ფერის, ბრწყინვალე თმა.დერმატოლოგიურად ტესტირებულია. თვალში მოხვედრისას დაუყოვნებლივ ამოიბანეთ თბილი წყლით.",
+            "packaging": "20 unit",
+            "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
+            "pharmacies": [
+                1, 2, 3, 6, 8, 10, 33, 52, 55
+            ],
+            "new": true,
+            "popular": true,
+            "essential": true
+        },
+        {
+            "id": 6,
+            "Category": "Mother and Child",
+            "subCategory": "antiodontalgic",
+            "title": "Title 1",
+            "img": "https://www.fda.gov/files/Drugs-Img-Drug-Information-Find-Information-Drugs-at-FDA-Mixed-Pills-Table-1600x900.png",
+            "price": 15,
+            "discountedPrice": 30,
+            "manufacturer": "Capsule OEM",
+            "amount": "20 ml",
+            "review": 5,
+            "annotation": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით დამუშავებული ტოსკანური ზეითუნის ზეთსა და უძვირფასესი ლიმნისა და ნუშის ყვავილების ექსტრაქტის უნიკალური კომბინაციით. მკვებავი ნივთიერებებისა და პანთენოლით გაჯერებული კომპლექსი ამაგრებს სუსტ თმის ძირებსა და ანიჭებს მოცულობას. შედეგი: ინტენსიური ფერის, ბრწყინვალე თმა.დერმატოლოგიურად ტესტირებულია. თვალში მოხვედრისას დაუყოვნებლივ ამოიბანეთ თბილი წყლით.",
+            "packaging": "20 unit",
+            "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
+            "pharmacies": [
+                1, 2, 3, 6, 8, 10, 33, 52, 55
+            ],
+            "new": true,
+            "popular": false,
+            "essential": false
+        },
+        {
+            "id": 7,
+            "Category": "Medical Devices",
+            "subCategory": "Blood Pressure Monitor",
+            "title": "CITIZEN BPM CHU305",
+            "img": "https://i.ibb.co/cw0v0xm/CHU305-lower-wide.jpg",
+            "price": 139,
+            "discountedPrice": 30,
+            "manufacturer": "Capsule OEM",
+            "amount": "20 ml",
+            "review": 5,
+            "annotation": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით დამუშავებული ტოსკანური ზეითუნის ზეთსა და უძვირფასესი ლიმნისა და ნუშის ყვავილების ექსტრაქტის უნიკალური კომბინაციით. მკვებავი ნივთიერებებისა და პანთენოლით გაჯერებული კომპლექსი ამაგრებს სუსტ თმის ძირებსა და ანიჭებს მოცულობას. შედეგი: ინტენსიური ფერის, ბრწყინვალე თმა.დერმატოლოგიურად ტესტირებულია. თვალში მოხვედრისას დაუყოვნებლივ ამოიბანეთ თბილი წყლით.",
+            "packaging": "20 unit",
+            "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
+            "pharmacies": [
+                1, 2, 3, 6, 8, 10, 33, 52, 55
+            ],
+            "new": false,
+            "popular": true,
+            "essential": true
+        },
+        {
+            "id": 8,
+            "Category": "Mother and Child",
+            "subCategory": "Meal",
+            "title": "Nestle",
+            "img": "https://i.ibb.co/bQZHPxh/image.png",
+            "price": 18,
+            "discountedPrice": 30,
+            "manufacturer": "Capsule OEM",
+            "amount": "750 ml",
+            "review": 5,
+            "annotation": "",
+            "packaging": "1 unit",
+            "usage": "",
+            "pharmacies": [
+                1, 2, 3, 6, 8, 10, 33, 52, 55
+            ],
+            "new": true,
+            "popular": false,
+            "essential": true
+        },
+        {
+            "id": 9,
+            "Category": "Mother and Child",
+            "subCategory": "febricide",
+            "title": "Title 1",
+            "img": "https://www.fda.gov/files/Drugs-Img-Drug-Information-Find-Information-Drugs-at-FDA-Mixed-Pills-Table-1600x900.png",
+            "price": 40,
+            "discountedPrice": 30,
+            "manufacturer": "Capsule OEM",
+            "amount": "20 ml",
+            "review": 5,
+            "annotation": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით დამუშავებული ტოსკანური ზეითუნის ზეთსა და უძვირფასესი ლიმნისა და ნუშის ყვავილების ექსტრაქტის უნიკალური კომბინაციით. მკვებავი ნივთიერებებისა და პანთენოლით გაჯერებული კომპლექსი ამაგრებს სუსტ თმის ძირებსა და ანიჭებს მოცულობას. შედეგი: ინტენსიური ფერის, ბრწყინვალე თმა.დერმატოლოგიურად ტესტირებულია. თვალში მოხვედრისას დაუყოვნებლივ ამოიბანეთ თბილი წყლით.",
+            "packaging": "20 unit",
+            "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
+            "pharmacies": [
+                1, 2, 3, 6, 8, 10, 33, 52, 55
+            ],
+            "new": false,
+            "popular": true,
+            "essential": false
+        },
+        {
+            "id": 10,
+            "Category": "Mother and Child",
+            "subCategory": "febricide",
+            "title": "Title 1",
+            "img": "https://www.fda.gov/files/Drugs-Img-Drug-Information-Find-Information-Drugs-at-FDA-Mixed-Pills-Table-1600x900.png",
+            "price": 28,
+            "discountedPrice": 30,
+            "manufacturer": "Capsule OEM",
+            "amount": "20 ml",
+            "review": 5,
+            "annotation": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით დამუშავებული ტოსკანური ზეითუნის ზეთსა და უძვირფასესი ლიმნისა და ნუშის ყვავილების ექსტრაქტის უნიკალური კომბინაციით. მკვებავი ნივთიერებებისა და პანთენოლით გაჯერებული კომპლექსი ამაგრებს სუსტ თმის ძირებსა და ანიჭებს მოცულობას. შედეგი: ინტენსიური ფერის, ბრწყინვალე თმა.დერმატოლოგიურად ტესტირებულია. თვალში მოხვედრისას დაუყოვნებლივ ამოიბანეთ თბილი წყლით.",
+            "packaging": "20 unit",
+            "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
+            "pharmacies": [
+                1, 2, 3, 6, 8, 10, 33, 52, 55
+            ],
+            "new": false,
+            "popular": true,
+            "essential": true
+        },
+        {
+            "id": 11,
+            "Category": "Mother and Child",
+            "subCategory": "febricide",
+            "title": "Title 1",
+            "img": "https://www.fda.gov/files/Drugs-Img-Drug-Information-Find-Information-Drugs-at-FDA-Mixed-Pills-Table-1600x900.png",
+            "price": 78,
+            "discountedPrice": 30,
+            "manufacturer": "Capsule OEM",
+            "amount": "20 ml",
+            "review": 5,
+            "annotation": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით დამუშავებული ტოსკანური ზეითუნის ზეთსა და უძვირფასესი ლიმნისა და ნუშის ყვავილების ექსტრაქტის უნიკალური კომბინაციით. მკვებავი ნივთიერებებისა და პანთენოლით გაჯერებული კომპლექსი ამაგრებს სუსტ თმის ძირებსა და ანიჭებს მოცულობას. შედეგი: ინტენსიური ფერის, ბრწყინვალე თმა.დერმატოლოგიურად ტესტირებულია. თვალში მოხვედრისას დაუყოვნებლივ ამოიბანეთ თბილი წყლით.",
+            "packaging": "20 unit",
+            "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
+            "pharmacies": [
+                1, 2, 3, 6, 8, 10, 33, 52, 55
+            ],
+            "new": true,
+            "popular": false,
+            "essential": true
+        },
+        {
+            "id": 12,
+            "Category": "Mother and Child",
+            "subCategory": "febricide",
+            "title": "Title 1",
+            "img": "https://www.fda.gov/files/Drugs-Img-Drug-Information-Find-Information-Drugs-at-FDA-Mixed-Pills-Table-1600x900.png",
+            "price": 33,
+            "discountedPrice": 30,
+            "manufacturer": "Capsule OEM",
+            "amount": "20 ml",
+            "review": 5,
+            "annotation": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით დამუშავებული ტოსკანური ზეითუნის ზეთსა და უძვირფასესი ლიმნისა და ნუშის ყვავილების ექსტრაქტის უნიკალური კომბინაციით. მკვებავი ნივთიერებებისა და პანთენოლით გაჯერებული კომპლექსი ამაგრებს სუსტ თმის ძირებსა და ანიჭებს მოცულობას. შედეგი: ინტენსიური ფერის, ბრწყინვალე თმა.დერმატოლოგიურად ტესტირებულია. თვალში მოხვედრისას დაუყოვნებლივ ამოიბანეთ თბილი წყლით.",
+            "packaging": "20 unit",
+            "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
+            "pharmacies": [
+                1, 2, 3, 6, 8, 10, 33, 52, 55
+            ],
+            "new": true,
+            "popular": true,
+            "essential": false
+        },
+        {
+            "id": 13,
+            "Category": "Mother and Child",
+            "subCategory": "febricide",
+            "title": "Title 1",
+            "img": "https://www.fda.gov/files/Drugs-Img-Drug-Information-Find-Information-Drugs-at-FDA-Mixed-Pills-Table-1600x900.png",
+            "price": 115,
+            "discountedPrice": 30,
+            "manufacturer": "Capsule OEM",
+            "amount": "20 ml",
+            "review": 5,
+            "annotation": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით დამუშავებული ტოსკანური ზეითუნის ზეთსა და უძვირფასესი ლიმნისა და ნუშის ყვავილების ექსტრაქტის უნიკალური კომბინაციით. მკვებავი ნივთიერებებისა და პანთენოლით გაჯერებული კომპლექსი ამაგრებს სუსტ თმის ძირებსა და ანიჭებს მოცულობას. შედეგი: ინტენსიური ფერის, ბრწყინვალე თმა.დერმატოლოგიურად ტესტირებულია. თვალში მოხვედრისას დაუყოვნებლივ ამოიბანეთ თბილი წყლით.",
+            "packaging": "20 unit",
+            "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
+            "pharmacies": [
+                1, 2, 3, 6, 8, 10, 33, 52, 55
+            ],
+            "new": false,
+            "popular": true,
+            "essential": true
+        },
+        {
+            "id": 14,
+            "Category": "Mother and Child",
+            "subCategory": "febricide",
+            "title": "Title 1",
+            "img": "https://www.fda.gov/files/Drugs-Img-Drug-Information-Find-Information-Drugs-at-FDA-Mixed-Pills-Table-1600x900.png",
+            "price": 19,
+            "discountedPrice": 30,
+            "manufacturer": "Capsule OEM",
+            "amount": "20 ml",
+            "review": 5,
+            "annotation": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით დამუშავებული ტოსკანური ზეითუნის ზეთსა და უძვირფასესი ლიმნისა და ნუშის ყვავილების ექსტრაქტის უნიკალური კომბინაციით. მკვებავი ნივთიერებებისა და პანთენოლით გაჯერებული კომპლექსი ამაგრებს სუსტ თმის ძირებსა და ანიჭებს მოცულობას. შედეგი: ინტენსიური ფერის, ბრწყინვალე თმა.დერმატოლოგიურად ტესტირებულია. თვალში მოხვედრისას დაუყოვნებლივ ამოიბანეთ თბილი წყლით.",
+            "packaging": "20 unit",
+            "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
+            "pharmacies": [
+                1, 2, 3, 6, 8, 10, 33, 52, 55
+            ],
+            "new": false,
+            "popular": false,
+            "essential": false
+        },
+        {
+            "id": 15,
+            "Category": "Mother and Child",
+            "subCategory": "Essential Oils",
+            "title": "Title 1",
+            "img": "https://www.fda.gov/files/Drugs-Img-Drug-Information-Find-Information-Drugs-at-FDA-Mixed-Pills-Table-1600x900.png",
+            "price": 35,
+            "discountedPrice": 30,
+            "manufacturer": "Capsule OEM",
+            "amount": "20 ml",
+            "review": 5,
+            "annotation": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით დამუშავებული ტოსკანური ზეითუნის ზეთსა და უძვირფასესი ლიმნისა და ნუშის ყვავილების ექსტრაქტის უნიკალური კომბინაციით. მკვებავი ნივთიერებებისა და პანთენოლით გაჯერებული კომპლექსი ამაგრებს სუსტ თმის ძირებსა და ანიჭებს მოცულობას. შედეგი: ინტენსიური ფერის, ბრწყინვალე თმა.დერმატოლოგიურად ტესტირებულია. თვალში მოხვედრისას დაუყოვნებლივ ამოიბანეთ თბილი წყლით.",
+            "packaging": "20 unit",
+            "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
+            "pharmacies": [
+                1, 2, 3, 6, 8, 10, 33, 52, 55
+            ],
+            "new": true,
+            "popular": false,
+            "essential": true
+        },
+        {
+            "id": 16,
+            "Category": "Mother and Child",
+            "subCategory": "Essential Oils",
+            "title": "Title 1",
+            "img": "https://www.fda.gov/files/Drugs-Img-Drug-Information-Find-Information-Drugs-at-FDA-Mixed-Pills-Table-1600x900.png",
+            "price": 35,
+            "discountedPrice": 30,
+            "manufacturer": "Capsule OEM",
+            "amount": "20 ml",
+            "review": 5,
+            "annotation": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით დამუშავებული ტოსკანური ზეითუნის ზეთსა და უძვირფასესი ლიმნისა და ნუშის ყვავილების ექსტრაქტის უნიკალური კომბინაციით. მკვებავი ნივთიერებებისა და პანთენოლით გაჯერებული კომპლექსი ამაგრებს სუსტ თმის ძირებსა და ანიჭებს მოცულობას. შედეგი: ინტენსიური ფერის, ბრწყინვალე თმა.დერმატოლოგიურად ტესტირებულია. თვალში მოხვედრისას დაუყოვნებლივ ამოიბანეთ თბილი წყლით.",
+            "packaging": "20 unit",
+            "usage": "გაამაგრეთ თქვენი თმები პირველადი ცივი წესით ....",
+            "pharmacies": [
+                1, 2, 3, 6, 8, 10, 33, 52, 55
+            ],
+            "new": false,
+            "popular": false,
+            "essential": false
+        }
+    ]
+}
