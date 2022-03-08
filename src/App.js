@@ -7,14 +7,16 @@ import { Stupidclass } from './myclasscomp';
 import {Counter} from './components/litlecounter'
 import {Styledbutton} from './components/button'
 import {Calc} from './components/calculator'
+import {Form1} from './components/form'
 
 let someinfo = 'just test info'
 
 function App() {
   return (
     <div>
-    <Counter/>    
-    <Calc/>
+    {/* <Counter/>    
+    <Calc/> */}
+    <Form1/>
     </div>
   );
 }
